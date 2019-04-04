@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="AssessmentTest">
+  <parameter name="URL" value="http://www.way2automation.com/angularjs-protractor/webtables"></parameter>
+  <parameter name="browser" value="chrome"></parameter>
+  
+    <classes>
+    
+      <class name="src.test.java.testDriver.Testbase"></class>
+     
+      </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

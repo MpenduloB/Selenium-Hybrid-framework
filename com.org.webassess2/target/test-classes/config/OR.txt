@@ -1,0 +1,13 @@
+# UserTable Page Objects
+txt_UserTable_Firstname=//input[@name='FirstName']
+txt_UserTable_Lastname=//input[@name='LastName']
+txt_UserTable_Username=//input[@name='UserName']
+txt_UserTable_Password=//input[@name='Password']
+txt_UserTable_Email=//input[@name='Email']
+txt_UserTable_Mobilephone=//input[@name='Mobilephone']
+btn_UserTable_AddUser=//button[@class='btn btn-link pull-right']
+btn_UserTable_Save=//button[@class='btn btn-success']
+chk_UserTable_CompanyAAA=//input[@value='15']
+chk_UserTable_CompanyBBB=//input[@value='16']
+cmb_UserTable_Role=//select[@name='RoleId']
+

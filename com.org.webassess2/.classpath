@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/jar_files/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/poi-bin-3.16-20170419/poi-3.16/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mpendulo/ProtonWorkspace/WebAssessment2/com.org.webassess2/jars/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

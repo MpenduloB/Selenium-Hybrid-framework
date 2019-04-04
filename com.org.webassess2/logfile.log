@@ -1,0 +1,501 @@
+2019-04-04 14:45:25,406 INFO  [Log] **************************************************************************************** 
+2019-04-04 14:45:25,406 INFO  [Log] **************************************************************************************** 
+2019-04-04 14:45:25,406 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Launch_And_AddUser       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 14:45:25,406 INFO  [Log] **************************************************************************************** 
+2019-04-04 14:45:25,406 INFO  [Log] **************************************************************************************** 
+2019-04-04 14:45:26,368 INFO  [Log] Opening Browser 
+2019-04-04 14:45:32,399 INFO  [Log] Chrome browser started 
+2019-04-04 14:45:35,155 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:35,497 INFO  [Log] Navigating to URL 
+2019-04-04 14:45:40,355 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:42,296 INFO  [Log] Wait for the object to be visible btn_UserTable_AddUser 
+2019-04-04 14:45:43,746 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:44,052 INFO  [Log] verifying URL 
+2019-04-04 14:45:44,653 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:45,148 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 14:45:45,774 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:46,595 INFO  [Log] Wait for a few seconds 
+2019-04-04 14:45:48,721 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:49,029 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 14:45:49,538 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:49,935 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 14:45:50,260 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:50,661 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 14:45:51,038 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:51,434 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 14:45:51,805 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:52,189 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 14:45:52,495 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:52,785 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 14:45:53,239 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:53,570 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 14:45:54,222 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:54,528 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 14:45:55,106 INFO  [Log] Take a screenshot  
+2019-04-04 14:45:55,414 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 14:45:55,671 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:03,360 INFO  [Log] **************************************************************************************** 
+2019-04-04 14:46:03,360 INFO  [Log] **************************************************************************************** 
+2019-04-04 14:46:03,360 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Add_User       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 14:46:03,360 INFO  [Log] **************************************************************************************** 
+2019-04-04 14:46:03,360 INFO  [Log] **************************************************************************************** 
+2019-04-04 14:46:03,360 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-04-04 14:46:03,361 INFO  [Log] Wait for a few seconds 
+2019-04-04 14:46:05,441 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:05,737 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 14:46:06,298 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:06,583 INFO  [Log] Wait for a few seconds 
+2019-04-04 14:46:08,653 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:08,978 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 14:46:09,311 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:09,670 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 14:46:09,948 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:10,285 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 14:46:10,516 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:10,832 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 14:46:11,081 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:11,386 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 14:46:11,538 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:11,830 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 14:46:12,180 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:12,533 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 14:46:12,884 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:13,225 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 14:46:13,820 INFO  [Log] Take a screenshot  
+2019-04-04 14:46:14,203 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 14:46:14,434 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:13,045 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:08:13,045 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:08:13,045 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Launch_And_AddUser       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 15:08:13,045 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:08:13,045 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:08:13,928 INFO  [Log] Opening Browser 
+2019-04-04 15:08:21,651 INFO  [Log] Chrome browser started 
+2019-04-04 15:08:25,109 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:27,955 INFO  [Log] Navigating to URL 
+2019-04-04 15:08:33,498 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:34,127 INFO  [Log] Wait for the object to be visible btn_UserTable_AddUser 
+2019-04-04 15:08:36,501 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:36,829 INFO  [Log] verifying URL 
+2019-04-04 15:08:37,009 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:39,602 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 15:08:40,816 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:41,644 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:08:43,782 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:44,083 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 15:08:44,652 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:45,030 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 15:08:45,302 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:45,639 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 15:08:45,902 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:46,223 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 15:08:46,473 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:46,803 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 15:08:47,215 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:47,563 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 15:08:48,630 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:48,929 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 15:08:49,603 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:49,896 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 15:08:50,444 INFO  [Log] Take a screenshot  
+2019-04-04 15:08:50,751 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 15:08:50,976 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:02,691 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:09:02,695 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:09:02,695 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Add_User       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 15:09:02,695 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:09:02,695 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:09:02,696 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-04-04 15:09:02,696 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:09:04,778 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:05,083 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 15:09:05,776 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:06,067 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:09:08,142 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:08,435 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 15:09:08,760 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:09,212 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 15:09:09,461 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:09,757 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 15:09:09,936 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:10,270 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 15:09:10,488 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:10,817 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 15:09:10,977 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:11,325 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 15:09:11,647 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:11,962 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 15:09:12,272 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:12,608 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 15:09:13,078 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:13,396 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 15:09:13,550 INFO  [Log] Take a screenshot  
+2019-04-04 15:09:13,862 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:09:15,879 ERROR [Log] Not able to Wait --- Cannot find elements when the XPath is null. 
+2019-04-04 15:09:16,229 INFO  [Log] Closing the browser 
+2019-04-04 15:09:17,316 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-04-04 15:09:17,316 INFO  [Log] X 
+2019-04-04 15:09:17,316 INFO  [Log] X 
+2019-04-04 15:09:17,316 INFO  [Log] X 
+2019-04-04 15:09:17,316 INFO  [Log] X 
+2019-04-04 15:17:46,980 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:17:46,980 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:17:46,980 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Launch_And_AddUser       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 15:17:46,980 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:17:46,980 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:17:47,888 INFO  [Log] Opening Browser 
+2019-04-04 15:17:53,232 INFO  [Log] Chrome browser started 
+2019-04-04 15:17:55,067 INFO  [Log] Take a screenshot  
+2019-04-04 15:17:55,697 INFO  [Log] Navigating to URL 
+2019-04-04 15:18:00,345 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:01,042 INFO  [Log] Wait for the object to be visible btn_UserTable_AddUser 
+2019-04-04 15:18:01,842 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:02,177 INFO  [Log] verifying URL 
+2019-04-04 15:18:02,340 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:04,049 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 15:18:04,670 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:05,460 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:18:07,596 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:07,889 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 15:18:09,070 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:09,730 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 15:18:10,203 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:10,555 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 15:18:10,915 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:11,303 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 15:18:11,652 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:11,957 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 15:18:12,302 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:12,618 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 15:18:13,089 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:13,422 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 15:18:14,189 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:14,500 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 15:18:15,151 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:15,476 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 15:18:15,797 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:26,117 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:18:26,117 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:18:26,117 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Add_User       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 15:18:26,117 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:18:26,117 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:18:26,118 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-04-04 15:18:26,118 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:18:28,216 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:28,517 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 15:18:29,074 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:29,384 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:18:31,487 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:31,805 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 15:18:32,107 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:32,432 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 15:18:32,708 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:33,089 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 15:18:33,502 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:33,813 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 15:18:34,108 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:34,429 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 15:18:34,580 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:34,874 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 15:18:35,206 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:35,564 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 15:18:36,055 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:36,445 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 15:18:37,094 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:37,401 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 15:18:37,655 INFO  [Log] Take a screenshot  
+2019-04-04 15:18:37,955 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:18:39,967 ERROR [Log] Not able to Wait --- Cannot find elements when the XPath is null. 
+2019-04-04 15:18:40,402 INFO  [Log] Closing the browser 
+2019-04-04 15:18:41,568 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-04-04 15:18:41,568 INFO  [Log] X 
+2019-04-04 15:18:41,568 INFO  [Log] X 
+2019-04-04 15:18:41,568 INFO  [Log] X 
+2019-04-04 15:18:41,568 INFO  [Log] X 
+2019-04-04 15:26:35,170 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:26:35,170 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:26:35,170 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Launch_And_AddUser       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 15:26:35,170 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:26:35,170 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:26:36,519 INFO  [Log] Opening Browser 
+2019-04-04 15:26:41,652 INFO  [Log] Chrome browser started 
+2019-04-04 15:26:43,003 INFO  [Log] Take a screenshot  
+2019-04-04 15:26:43,605 INFO  [Log] Navigating to URL 
+2019-04-04 15:26:46,072 INFO  [Log] Take a screenshot  
+2019-04-04 15:26:46,666 INFO  [Log] Wait for the object to be visible btn_UserTable_AddUser 
+2019-04-04 15:26:47,491 INFO  [Log] Take a screenshot  
+2019-04-04 15:26:47,936 INFO  [Log] verifying URL 
+2019-04-04 15:26:53,609 INFO  [Log] Take a screenshot  
+2019-04-04 15:26:53,898 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 15:26:54,344 INFO  [Log] Take a screenshot  
+2019-04-04 15:26:55,117 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:26:57,341 INFO  [Log] Take a screenshot  
+2019-04-04 15:26:57,685 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 15:26:58,302 INFO  [Log] Take a screenshot  
+2019-04-04 15:26:58,865 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 15:26:59,353 INFO  [Log] Take a screenshot  
+2019-04-04 15:26:59,703 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 15:27:00,084 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:00,419 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 15:27:00,756 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:01,067 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 15:27:01,314 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:01,635 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 15:27:02,108 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:02,433 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 15:27:03,158 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:03,470 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 15:27:04,122 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:04,494 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 15:27:04,879 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:15,607 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:27:15,610 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:27:15,610 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Add_User       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 15:27:15,610 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:27:15,610 INFO  [Log] **************************************************************************************** 
+2019-04-04 15:27:15,611 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-04-04 15:27:15,612 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:27:16,709 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:17,009 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 15:27:17,606 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:17,974 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:27:19,067 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:19,380 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 15:27:19,940 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:20,308 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 15:27:20,629 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:20,963 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 15:27:21,272 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:21,607 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 15:27:22,103 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:22,416 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 15:27:22,575 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:22,898 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 15:27:23,282 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:23,609 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 15:27:23,996 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:24,329 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 15:27:24,892 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:25,451 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 15:27:25,749 INFO  [Log] Take a screenshot  
+2019-04-04 15:27:26,106 INFO  [Log] Wait for a few seconds 
+2019-04-04 15:27:28,117 ERROR [Log] Not able to Wait --- Cannot find elements when the XPath is null. 
+2019-04-04 15:27:28,541 INFO  [Log] Closing the browser 
+2019-04-04 15:27:29,659 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-04-04 15:27:29,659 INFO  [Log] X 
+2019-04-04 15:27:29,659 INFO  [Log] X 
+2019-04-04 15:27:29,659 INFO  [Log] X 
+2019-04-04 15:27:29,659 INFO  [Log] X 
+2019-04-04 16:27:14,965 INFO  [Log] **************************************************************************************** 
+2019-04-04 16:27:14,985 INFO  [Log] **************************************************************************************** 
+2019-04-04 16:27:14,985 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Launch_And_AddUser       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 16:27:14,985 INFO  [Log] **************************************************************************************** 
+2019-04-04 16:27:14,985 INFO  [Log] **************************************************************************************** 
+2019-04-04 16:27:16,468 INFO  [Log] Opening Browser 
+2019-04-04 16:28:18,972 INFO  [Log] Chrome browser started 
+2019-04-04 16:28:23,021 INFO  [Log] Take a screenshot  
+2019-04-04 16:28:26,987 INFO  [Log] Navigating to URL 
+2019-04-04 16:28:37,810 INFO  [Log] Take a screenshot  
+2019-04-04 16:28:39,293 INFO  [Log] Wait for the object to be visible btn_UserTable_AddUser 
+2019-04-04 16:28:51,848 INFO  [Log] Take a screenshot  
+2019-04-04 16:28:52,179 INFO  [Log] verifying URL 
+2019-04-04 16:28:52,408 INFO  [Log] Take a screenshot  
+2019-04-04 16:28:52,755 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 16:28:58,300 INFO  [Log] Take a screenshot  
+2019-04-04 16:28:59,818 INFO  [Log] Wait for a few seconds 
+2019-04-04 16:29:01,978 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:02,299 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 16:29:04,424 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:04,935 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 16:29:05,742 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:06,235 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 16:29:06,755 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:07,209 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 16:29:07,921 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:08,308 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 16:29:09,377 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:09,778 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 16:29:13,023 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:13,362 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 16:29:14,544 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:15,271 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 16:29:16,481 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:16,900 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 16:29:17,397 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:32,687 INFO  [Log] **************************************************************************************** 
+2019-04-04 16:29:32,687 INFO  [Log] **************************************************************************************** 
+2019-04-04 16:29:32,687 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Add_User       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 16:29:32,687 INFO  [Log] **************************************************************************************** 
+2019-04-04 16:29:32,687 INFO  [Log] **************************************************************************************** 
+2019-04-04 16:29:32,688 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-04-04 16:29:32,688 INFO  [Log] Wait for a few seconds 
+2019-04-04 16:29:33,780 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:34,093 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 16:29:34,624 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:35,053 INFO  [Log] Wait for a few seconds 
+2019-04-04 16:29:36,136 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:36,438 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 16:29:37,534 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:37,965 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 16:29:38,383 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:38,904 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 16:29:39,258 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:39,608 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 16:29:39,962 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:40,494 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 16:29:40,665 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:41,050 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 16:29:41,750 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:42,082 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 16:29:42,563 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:43,008 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 16:29:43,672 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:44,052 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 16:29:44,329 INFO  [Log] Take a screenshot  
+2019-04-04 16:29:44,639 INFO  [Log] Wait for a few seconds 
+2019-04-04 16:29:46,651 ERROR [Log] Not able to Wait --- Cannot find elements when the XPath is null. 
+2019-04-04 16:29:47,016 INFO  [Log] Closing the browser 
+2019-04-04 16:29:48,457 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-04-04 16:29:48,457 INFO  [Log] X 
+2019-04-04 16:29:48,457 INFO  [Log] X 
+2019-04-04 16:29:48,457 INFO  [Log] X 
+2019-04-04 16:29:48,457 INFO  [Log] X 
+2019-04-04 22:14:16,460 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:14:16,488 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:14:16,488 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Launch_And_AddUser       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 22:14:16,489 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:14:16,489 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:14:18,799 INFO  [Log] Opening Browser 
+2019-04-04 22:14:54,902 INFO  [Log] Chrome browser started 
+2019-04-04 22:14:56,942 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:02,452 INFO  [Log] Navigating to URL 
+2019-04-04 22:15:22,153 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:22,461 INFO  [Log] Wait for the object to be visible btn_UserTable_AddUser 
+2019-04-04 22:15:26,081 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:26,394 INFO  [Log] verifying URL 
+2019-04-04 22:15:26,803 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:35,319 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 22:15:37,569 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:40,334 INFO  [Log] Wait for a few seconds 
+2019-04-04 22:15:42,518 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:42,838 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 22:15:44,800 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:45,229 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 22:15:45,878 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:46,253 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 22:15:46,708 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:47,127 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 22:15:47,816 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:48,217 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 22:15:49,066 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:49,402 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 22:15:51,733 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:52,152 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 22:15:53,485 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:53,811 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 22:15:54,695 INFO  [Log] Take a screenshot  
+2019-04-04 22:15:55,063 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 22:15:55,355 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:08,360 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:16:08,360 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:16:08,360 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Add_User       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 22:16:08,361 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:16:08,361 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:16:08,361 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-04-04 22:16:08,362 INFO  [Log] Wait for a few seconds 
+2019-04-04 22:16:09,478 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:09,776 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 22:16:10,516 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:10,860 INFO  [Log] Wait for a few seconds 
+2019-04-04 22:16:11,973 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:12,333 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 22:16:12,805 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:13,247 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 22:16:13,613 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:13,983 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 22:16:14,337 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:14,685 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 22:16:14,974 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:15,355 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 22:16:15,627 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:15,972 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 22:16:16,700 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:17,052 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 22:16:17,509 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:17,913 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 22:16:18,554 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:18,918 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 22:16:19,277 INFO  [Log] Take a screenshot  
+2019-04-04 22:16:19,610 INFO  [Log] Wait for a few seconds 
+2019-04-04 22:16:21,621 ERROR [Log] Not able to Wait --- Cannot find elements when the XPath is null. 
+2019-04-04 22:16:22,035 INFO  [Log] Closing the browser 
+2019-04-04 22:16:23,320 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-04-04 22:16:23,320 INFO  [Log] X 
+2019-04-04 22:16:23,320 INFO  [Log] X 
+2019-04-04 22:16:23,320 INFO  [Log] X 
+2019-04-04 22:16:23,320 INFO  [Log] X 
+2019-04-04 22:33:18,295 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:33:18,295 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:33:18,295 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Launch_And_AddUser       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 22:33:18,295 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:33:18,295 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:33:19,235 INFO  [Log] Opening Browser 
+2019-04-04 22:33:26,909 INFO  [Log] Chrome browser started 
+2019-04-04 22:33:28,667 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:29,383 INFO  [Log] Navigating to URL 
+2019-04-04 22:33:34,608 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:35,122 INFO  [Log] Wait for the object to be visible btn_UserTable_AddUser 
+2019-04-04 22:33:35,757 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:36,081 INFO  [Log] verifying URL 
+2019-04-04 22:33:36,278 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:36,589 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 22:33:37,113 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:37,768 INFO  [Log] Wait for a few seconds 
+2019-04-04 22:33:39,913 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:40,205 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 22:33:40,858 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:41,379 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 22:33:41,811 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:42,130 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 22:33:42,604 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:43,004 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 22:33:43,429 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:43,802 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 22:33:44,065 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:44,389 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 22:33:44,865 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:45,217 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 22:33:46,008 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:46,318 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 22:33:47,088 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:47,467 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 22:33:47,736 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:57,901 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:33:57,905 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:33:57,905 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Add_User       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-04-04 22:33:57,905 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:33:57,905 INFO  [Log] **************************************************************************************** 
+2019-04-04 22:33:57,906 INFO  [Log] Wait for a few seconds 
+2019-04-04 22:33:58,998 INFO  [Log] Take a screenshot  
+2019-04-04 22:33:59,282 INFO  [Log] Clicking on Webelement btn_UserTable_AddUser 
+2019-04-04 22:33:59,828 INFO  [Log] Take a screenshot  
+2019-04-04 22:34:00,154 INFO  [Log] Wait for a few seconds 
+2019-04-04 22:34:01,231 INFO  [Log] Take a screenshot  
+2019-04-04 22:34:01,509 INFO  [Log] Entering the text in txt_UserTable_Firstname 
+2019-04-04 22:34:01,786 INFO  [Log] Take a screenshot  
+2019-04-04 22:34:02,159 INFO  [Log] Entering the text in txt_UserTable_Lastname 
+2019-04-04 22:34:02,404 INFO  [Log] Take a screenshot  
+2019-04-04 22:34:02,867 INFO  [Log] Entering the text in txt_UserTable_Username 
+2019-04-04 22:34:03,163 INFO  [Log] Take a screenshot  
+2019-04-04 22:34:03,481 INFO  [Log] Entering the text in txt_UserTable_Password 
+2019-04-04 22:34:03,764 INFO  [Log] Take a screenshot  
+2019-04-04 22:34:04,059 INFO  [Log] Select item chk_UserTable_CompanyAAA 
+2019-04-04 22:34:04,232 INFO  [Log] Take a screenshot  
+2019-04-04 22:34:04,561 INFO  [Log] Selecting item in Combo cmb_UserTable_Role 
+2019-04-04 22:34:04,973 INFO  [Log] Take a screenshot  
+2019-04-04 22:34:05,331 INFO  [Log] Entering the text in txt_UserTable_Email 
+2019-04-04 22:34:05,643 INFO  [Log] Take a screenshot  
+2019-04-04 22:34:06,047 INFO  [Log] Entering the text in txt_UserTable_Mobilephone 
+2019-04-04 22:34:06,649 INFO  [Log] Take a screenshot  
+2019-04-04 22:34:06,943 INFO  [Log] Clicking on Webelement btn_UserTable_Save 
+2019-04-04 22:34:07,138 INFO  [Log] Take a screenshot  
